@@ -18,7 +18,7 @@ use_python("/anaconda3/bin/python3")
 
 
 
-## Código en hola`R`
+## Código en `R`
 
 
 ```{r}
